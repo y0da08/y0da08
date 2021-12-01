@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @y0da08
+- 👀 I’m interested in programation and hardware
+- 🌱 I’m currently learning python, JavaScript, HTML
